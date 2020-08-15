@@ -3,4 +3,4 @@
 
 Projeto escrito apenas com HTML & CSS.
 
-![img](https://imgur.com/a/VyxFOeJ.png)
+![img](https://imgur.com/a/VyxFOeJ)
