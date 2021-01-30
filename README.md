@@ -1,6 +1,7 @@
-# Twitter_Interface_Clone
-## Clone da Interface do Twitter
+# Clone da Interface do Twitter
 
-Projeto escrito apenas com HTML & CSS.
+Feito para treinar as habilidades com flex box.
 
 ![img](http://i.imgur.com/SIu52ij.png)
+
+Projeto escrito apenas com HTML & CSS.
